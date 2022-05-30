@@ -1,0 +1,19 @@
+segment_sources:
+  I889C28B4:
+    type: origin_type
+    relation: translation
+    language: en
+  IA0F524AD:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  48a62c797c3946c590d50fbed4534b6a:
+    I889C28B4: c3dd5a858af64910a109091fd36e4ea6
+    IA0F524AD: 40a47212de5f480daaee323fad554b4d
+  2e05851eebd94b7fbd9af5e5a7967881:
+    I889C28B4: b1028830cf314f22a8b03c8979b8ea99
+    IA0F524AD: e7d55057942642f2932644245fae8b33
+  2393837ea43f4cc6b3b2279765e4b9c6:
+    I889C28B4: 0579d1a965834f4dafeee0b318a22972
+    IA0F524AD: 5f504325762e4e74be522317366d9953
